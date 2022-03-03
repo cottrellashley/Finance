@@ -1,6 +1,6 @@
 # Entropy of Portfolio
 
-The code was all written by myself. However, I read the papers in full get the idea and some of the math.
+The code was all written by myself. However, I read the pdf document in full, from which I got the idea and based the math settup on.
 
 A simple mode for calculating the diversification of a portfolio by maximizing the entropy of the portfolio.
 
