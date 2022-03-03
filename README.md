@@ -1,4 +1,4 @@
-# Finance
+# Entropy of Portfolio
 
 A simple mode for calculating the diversification of a portfolio by maximizing the entropy of the portfolio.
 
